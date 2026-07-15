@@ -1,4 +1,4 @@
-The typestate pattern is an API design pattern that encodes information about an object’s run-time state in its compile-time type.
+The typestate pattern is an API design pattern that encodes information about an object's run-time state in its compile-time type.
 
 This repo is the best typestate implementation I have assembled from the sources below, as boilerplate-free as I can make it.
 
